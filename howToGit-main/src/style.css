@@ -1,0 +1,48 @@
+.logo{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    border-bottom: solid 2px;
+    font-style: unset
+}
+
+.foto{
+    display: block;
+    margin: 0 auto;
+     width: 50%;
+    border-radius: 20px;
+}
+
+.block{
+    background-color: #ae84c9;
+    padding: 10px;
+    border-radius: 20px;
+    border: solid 2px black;
+    margin: 20px auto;
+    max-width: 900px;
+}
+
+.block:hover{
+    background: #6e80b4;
+    border: 3px solid white;
+    margin: 15px auto;
+}
+
+h2{
+    text-align: center;
+    font-style: unset;
+}
+
+.footer {
+    background: repeating-linear-gradient(45deg, #DC63C2, #DC63C2 10px, grey 10px,grey 20px);;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+ 
